@@ -1,4 +1,4 @@
-🪨📄✂️ Rock Paper Scissors Game
+#🪨📄✂️ Rock Paper Scissors Game
 🎮 A simple and interactive Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.
 
 🚀 Features
